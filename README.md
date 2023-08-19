@@ -14,7 +14,7 @@ Follow this steps :-
   
 * Click Finish 
 
-![1](https://github.com/zeel-dhorajiya/Library/assets/52526126/931edb17-cad2-449c-97d7-98c5376a60b1)
+ ![1](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/55656b22-4645-411b-b9c9-82464b96e850)
 
 
 ## 2. Create a New Module
@@ -25,7 +25,7 @@ Follow this steps :-
   
 * Click Finish
 
-![2](https://github.com/zeel-dhorajiya/Library/assets/52526126/5be5b792-b896-4bb4-aaec-11b7e4bf9223)
+![2](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/6e532c2c-dcb7-4ac5-b72d-69461d3108cc)
 
 ## 3. Add Code Into Your Module
 
@@ -33,7 +33,7 @@ The module should be created in the root project folder.
  
 * Go to the package, right click, select New -> Kotlin Class/File
 
-![3](https://github.com/zeel-dhorajiya/Library/assets/52526126/7ee16284-15f1-4da0-ba67-835d7675fc74)
+ ![3](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/feb30f1a-1f7b-4ced-8b6c-7217638d6751)
 
 * Select Android Library, update Module Name and Package Name
 
@@ -151,7 +151,8 @@ i. artifactId = '<Your_GitHub_Repository_Name>'
 
 * Switch to project mode, add the jitpack.yml in project root folder
   
-![4](https://github.com/zeel-dhorajiya/Library/assets/52526126/368c126f-6a24-459b-93e5-43843d3dc2e2)
+![4](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/b40f1989-5881-4e7a-b6a7-1523e41dd360)
+
 
 The content in jitpack.yml:
 
@@ -181,7 +182,7 @@ You can also clean up unused dependencies before you upload your project to GitH
 
 * Please make sure the repository name matches the artifactId in step 5 and uncheck the private check box
 
-![5](https://github.com/zeel-dhorajiya/Library/assets/52526126/a0774832-dfa1-4239-99f7-f17d715bd3ae)
+ ![5](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/035b457f-26c0-4887-9673-6b7829a539eb)
 
 ## 7. Sign Up JitPack
 
@@ -189,11 +190,11 @@ You can also clean up unused dependencies before you upload your project to GitH
 
 * Authorize JitPack to allow JitPack access to your GitHub account
   
-![6](https://github.com/zeel-dhorajiya/Library/assets/52526126/3132ed80-a38a-445f-83b0-214d6ca89ec8)
+ ![6](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/9f457ff2-b1b2-437d-baca-abb775bf7761)
 
 * Select your repository and click Look Up. You should see the following:
 
-![7](https://github.com/zeel-dhorajiya/Library/assets/52526126/2b2770ad-aff9-4f5d-bbba-05253e4f043e)
+ ![7](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/35b8ddce-7532-4e30-8030-d5fb632da546)
 
 ## 8. Create a New Release to Trigger JitPack Build
 
@@ -213,17 +214,17 @@ You can also clean up unused dependencies before you upload your project to GitH
 
 * Wait for a while, you should see the Log icon is build in progress.
 
-![8](https://github.com/zeel-dhorajiya/Library/assets/52526126/c5487450-1aec-4d7b-8763-f0f70932632b)
+ ![8](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/ca54059f-8d3e-46fc-95f6-37b744d2f0fc)
 
 * When the build is done, you should see something like this:
 
-![9](https://github.com/zeel-dhorajiya/Library/assets/52526126/3f6015c4-e874-44f3-b859-33e76742ce24)
+ ![9](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/0f415653-5b3c-4cd2-b124-57c7bac916ae)
 
 > Note: If the build failed, you should see the red report. If it passes, you should see the green report above.
 
 * Click on the green report, you should see something like this at the end.
   
-![10](https://github.com/zeel-dhorajiya/Library/assets/52526126/395a648d-20e1-467b-adf2-90b50f836184)
+ ![10](https://github.com/zeel-dhorajiya/AndroidCustomLibrary/assets/52526126/bef20712-9390-4dc2-8183-7ad7cc5c165b)
 
 ## 10. Import JitPack Android Library
 
